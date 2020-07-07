@@ -1,2 +1,1 @@
-# yotsugi-vip
-my profile
+It's so exciting!
