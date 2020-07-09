@@ -1,1 +1,1 @@
-It's so exciting!
+It's so exciting!　:muscle: :zany_face: :fried_shrimp:
