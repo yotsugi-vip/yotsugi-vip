@@ -4,14 +4,14 @@ Language
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B">
 <img src="https://img.shields.io/badge/-JavaScript-007ACC.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=Python&style=flat">
+<img src="https://img.shields.io/badge/-Python-FFD400.svg?logo=Python&style=flat">
 
 
 others  
-<img src="https://img.shields.io/badge/-Electron-47848F.svg?logo=electron&style=flat">
-<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat">
+<img src="https://img.shields.io/badge/-Electron-393B61.svg?logo=electron&style=flat">
+<img src="https://img.shields.io/badge/-React-434343.svg?logo=react&style=flat">
 <img src="https://img.shields.io/badge/-Material--UI-0081CB.svg?logo=material-ui&style=flat">
-<img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=flat">
+<img src="https://img.shields.io/badge/-Node.js-002D00.svg?logo=node.js&style=flat">
 <img src="https://img.shields.io/badge/-VS Code-007ACC.svg?logo=visual-studio-code&style=flat">
 
 Streaming and sns link  
