@@ -1,12 +1,10 @@
-Language  
-<img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=C&style=flat">
-<img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=c-sharp&style=flat">
-<img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B">
-<img src="https://img.shields.io/badge/-JavaScript-007ACC.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-<img src="https://img.shields.io/badge/-Python-FFD400.svg?logo=Python&style=flat">
 
-
+<p>Hello!</p>
+<img src="https://github-profile-trophy.vercel.app/?username=yotsugi-vip&theme=onedark">
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotsugi-vip&layout=compact">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yotsugi-vip&show_icons=true&theme=radical">
+<div>
 others  
 <img src="https://img.shields.io/badge/-Electron-393B61.svg?logo=electron&style=flat">
 <img src="https://img.shields.io/badge/-React-434343.svg?logo=react&style=flat">
