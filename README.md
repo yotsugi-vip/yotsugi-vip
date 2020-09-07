@@ -6,7 +6,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yotsugi-vip&show_icons=true&theme=radical">
 <div>
   
-others
+others  
 <img src="https://img.shields.io/badge/-Electron-393B61.svg?logo=electron&style=flat">
 <img src="https://img.shields.io/badge/-React-434343.svg?logo=react&style=flat">
 <img src="https://img.shields.io/badge/-Material--UI-0081CB.svg?logo=material-ui&style=flat">
