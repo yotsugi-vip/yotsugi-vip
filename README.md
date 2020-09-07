@@ -2,7 +2,7 @@
 <p>Hello!</p>
 <img src="https://github-profile-trophy.vercel.app/?username=yotsugi-vip&theme=onedark">
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotsugi-vip&layout=compact">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotsugi-vip&layout=compact&theme=radical">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yotsugi-vip&show_icons=true&theme=radical">
 <div>
   
