@@ -3,7 +3,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=yotsugi-vip&theme=onedark">
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotsugi-vip&layout=compact&theme=radical">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yotsugi-vip&show_icons=true&theme=radical">
 <div>
   
 others  
@@ -18,6 +17,3 @@ Streaming and sns link
 [![](https://img.shields.io/badge/-Twitch-9146FF.svg?logo=twitch&style=flat)](https://www.twitch.tv/yotsugi_vip)
 [![](https://img.shields.io/badge/@ytg--vip-Twitter-1DA1F2.svg?logo=twitter&style=flat)](https://twitter.com/ytg_vip)
 <img src="https://img.shields.io/badge/%E3%82%88%E3%81%A4%E3%81%8E%237419-Discord-7289DA.svg?logo=discord&style=flat">
-
-Game Hard  
-<img src="https://img.shields.io/badge/-Nintendo Switch-F22F46.svg?logo=nintendo-switch&style=flat">
